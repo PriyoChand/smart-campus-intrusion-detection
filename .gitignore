@@ -226,3 +226,20 @@ saved_models/*.joblib
 .env
 __pycache__/
 .pytest_cache/
+
+# Environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & Models (tracked via DVC)
+data/*.csv
+data/*.parquet
+saved_models/*.pkl
+saved_models/*.joblib
+
+# Environment Keys
+.env
