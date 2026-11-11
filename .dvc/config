@@ -1,0 +1,7 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/PriyoChand/smart-campus-intrusion-detection.dvc
+    connect_timeout = 180
+    read_timeout = 300
+    jobs = 1
