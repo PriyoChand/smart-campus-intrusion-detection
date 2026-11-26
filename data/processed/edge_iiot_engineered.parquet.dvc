@@ -1,0 +1,5 @@
+outs:
+- md5: 527aea0e11b1a69ee464a277e0087cb8
+  size: 2309419
+  hash: md5
+  path: edge_iiot_engineered.parquet
